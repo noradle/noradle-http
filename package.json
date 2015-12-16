@@ -1,0 +1,40 @@
+{
+  "name": "noradle-http",
+  "version": "0.13.0",
+  "description": "noradle http gateway for plsql servlet",
+  "main": "lib/handlerHTTP.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:noradle/noradle-http.git"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "debug": "~2.1.1",
+    "dnode": "^1.2.1",
+    "underscore": "^1.8.3",
+    "noradle-protocol": "^0.13.0",
+    "noradle-nodejs-client": "^0.13.1",
+    "noradle-resultsets": "^0.13.0"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {
+    "consolidate": "^0.13.1",
+    "formidable": ">1.0.11"
+  },
+  "keywords": [
+    "noradle",
+    "http",
+    "gateway"
+  ],
+  "author": "kaven276@vip.sina.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noradle/noradle-http/issues"
+  },
+  "homepage": "https://github.com/noradle/noradle-http"
+}
