@@ -15,7 +15,6 @@
   },
   "dependencies": {
     "debug": "~2.1.1",
-    "dnode": "^1.2.1",
     "underscore": "^1.8.3",
     "noradle-protocol": "^0.13.0",
     "noradle-nodejs-client": "^0.13.1",
