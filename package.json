@@ -3,6 +3,9 @@
   "version": "0.13.1",
   "description": "noradle http gateway for plsql servlet",
   "main": "lib/handlerHTTP.js",
+  "directories": {
+    "lib": "./lib"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
