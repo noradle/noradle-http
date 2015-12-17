@@ -21,7 +21,7 @@
     "underscore": "^1.8.3",
     "noradle-protocol": "^0.13.0",
     "noradle-nodejs-client": "^0.13.1",
-    "noradle-resultsets": "^0.13.1"
+    "noradle-resultsets": "^0.13.2"
   },
   "devDependencies": {},
   "optionalDependencies": {
